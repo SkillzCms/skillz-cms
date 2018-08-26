@@ -18,6 +18,6 @@
         "guzzlehttp/guzzle": "~6.0",
         "imagine/imagine": "^0.6.3", 
         "skillzcms/core": "*"
-    }
+    },
     "minimum-stability": "stable"   
 }
