@@ -22,8 +22,7 @@
         "twig/twig": "^2.0",
         "cocur/slugify": "~3.1",
         "guzzlehttp/guzzle": "~6.0",
-        "imagine/imagine": "^0.6.3", 
-        "skillzcms/skillz-core": "*"
+        "imagine/imagine": "^0.6.3"
     },
     "minimum-stability": "dev"   
 }
