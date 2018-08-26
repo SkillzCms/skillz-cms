@@ -1,0 +1,29 @@
+{
+    "name": "skillzcms/skillz-cms",
+    "description": "The SkillzCMS",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakob Kronsteiner",
+            "email": "office@myjackson.at"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "ext-intl": "*",
+        "true/punycode": "*",
+        "psr/cache-implementation": "*",
+        "psr/log": "*",
+        "ext-gmagick": "*",
+        "ext-imagick": "*",
+        "matthiasmullie/minify": "^1.3",
+        "swiftmailer/swiftmailer": "~5.4",
+        "twig/twig": "^2.0",
+        "cocur/slugify": "~3.1",
+        "guzzlehttp/guzzle": "~6.0",
+        "imagine/imagine": "^0.6.3", 
+        "skillzcms/skillz-core": "*"
+    },
+    "minimum-stability": "dev"   
+}
