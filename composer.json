@@ -1,7 +1,6 @@
 {
     "name": "skillzcms/skillzcms",
     "description": "The SkillzCMS",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
